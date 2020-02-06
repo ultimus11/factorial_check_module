@@ -1,2 +1,3 @@
-import prime_check as t
-print(t.prime_check(15))
+import factorial_check as fc
+print(fc.check_factorial(5))
+# usage fc.check_factorial(num)
